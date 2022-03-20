@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ANGELBACK.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BACK0000" x="0" y="0" width="1881" height="1397"/>
+	<SubTexture name="BACK0001" x="0" y="0" width="1881" height="1397"/>
+	<SubTexture name="BACK0002" x="0" y="0" width="1881" height="1397"/>
+	<SubTexture name="BACK0003" x="0" y="0" width="1881" height="1397"/>
+	<SubTexture name="BACK0004" x="0" y="0" width="1881" height="1397"/>
+	<SubTexture name="BACK0005" x="0" y="0" width="1881" height="1397"/>
+	<SubTexture name="BACK0006" x="1881" y="0" width="1881" height="1397"/>
+	<SubTexture name="BACK0007" x="1881" y="0" width="1881" height="1397"/>
+	<SubTexture name="BACK0008" x="1881" y="0" width="1881" height="1397"/>
+	<SubTexture name="BACK0009" x="1881" y="0" width="1881" height="1397"/>
+	<SubTexture name="BACK0010" x="1881" y="0" width="1881" height="1397"/>
+	<SubTexture name="BACK0011" x="0" y="1397" width="1881" height="1397"/>
+	<SubTexture name="BACK0012" x="0" y="1397" width="1881" height="1397"/>
+	<SubTexture name="BACK0013" x="0" y="1397" width="1881" height="1397"/>
+	<SubTexture name="BACK0014" x="0" y="1397" width="1881" height="1397"/>
+	<SubTexture name="BACK0015" x="0" y="1397" width="1881" height="1397"/>
+	<SubTexture name="BACK0016" x="0" y="1397" width="1881" height="1397"/>
+</TextureAtlas>

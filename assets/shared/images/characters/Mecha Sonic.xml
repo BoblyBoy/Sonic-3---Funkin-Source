@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mecha Sonic.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mecha Sonic Start0000" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0001" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0002" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0003" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0004" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0005" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0006" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0007" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0008" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0009" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0010" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0011" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0012" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0013" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0014" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0015" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0016" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0017" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0018" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0019" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0020" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0021" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0022" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0023" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0024" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0025" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0026" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0027" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0028" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0029" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0030" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0031" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0032" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0033" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0034" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0035" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0036" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0037" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0038" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0039" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0040" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0041" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0042" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0043" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0044" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0045" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0046" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0047" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0048" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0049" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0050" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0051" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0052" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0053" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0054" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0055" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0056" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0057" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0058" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0059" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0060" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0061" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0062" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0063" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0064" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0065" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0066" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0067" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0068" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0069" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0070" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0071" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0072" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0073" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0074" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0075" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0076" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0077" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0078" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0079" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0080" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0081" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0082" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0083" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0084" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0085" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0086" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0087" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0088" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0089" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0090" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0091" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0092" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0093" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0094" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0095" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0096" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0097" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0098" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0099" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0100" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0101" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0102" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0103" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0104" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0105" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0106" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0107" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0108" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0109" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0110" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0111" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0112" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0113" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0114" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0115" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0116" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0117" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0118" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0119" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0120" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0121" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0122" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0123" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0124" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0125" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0126" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0127" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0128" x="0" y="0" width="11" height="9" frameX="-579" frameY="-380" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0129" x="11" y="0" width="599" height="571" frameX="0" frameY="-234" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0130" x="11" y="0" width="599" height="571" frameX="0" frameY="-234" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0131" x="610" y="0" width="748" height="520" frameX="-19" frameY="-238" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0132" x="610" y="0" width="748" height="520" frameX="-19" frameY="-238" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0133" x="1358" y="0" width="585" height="546" frameX="-276" frameY="-236" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0134" x="1358" y="0" width="585" height="546" frameX="-276" frameY="-236" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0135" x="1943" y="0" width="503" height="608" frameX="-480" frameY="-212" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0136" x="1943" y="0" width="503" height="608" frameX="-480" frameY="-212" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0137" x="2446" y="0" width="412" height="594" frameX="-725" frameY="-177" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0138" x="2446" y="0" width="412" height="594" frameX="-725" frameY="-177" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0139" x="2858" y="0" width="430" height="583" frameX="-755" frameY="-179" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0140" x="2858" y="0" width="430" height="583" frameX="-755" frameY="-179" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0141" x="3288" y="0" width="432" height="579" frameX="-854" frameY="-111" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0142" x="3288" y="0" width="432" height="579" frameX="-854" frameY="-111" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0143" x="0" y="608" width="498" height="570" frameX="-870" frameY="-21" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0144" x="0" y="608" width="498" height="570" frameX="-870" frameY="-21" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0145" x="498" y="608" width="443" height="580" frameX="-845" frameY="0" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0146" x="498" y="608" width="443" height="580" frameX="-845" frameY="0" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0147" x="941" y="608" width="423" height="586" frameX="-845" frameY="0" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0148" x="941" y="608" width="423" height="586" frameX="-845" frameY="0" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0149" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0150" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0151" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0152" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0153" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0154" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0155" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0156" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0157" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0158" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0159" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0160" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0161" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0162" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0163" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0164" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0165" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0166" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0167" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0168" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0169" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0170" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0171" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0172" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0173" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0174" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0175" x="1364" y="608" width="432" height="583" frameX="-811" frameY="-11" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0176" x="1796" y="608" width="421" height="575" frameX="-815" frameY="-19" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0177" x="1796" y="608" width="421" height="575" frameX="-815" frameY="-19" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0178" x="2217" y="608" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0179" x="2624" y="608" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0180" x="3031" y="608" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0181" x="3438" y="608" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0182" x="0" y="1194" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0183" x="407" y="1194" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0184" x="814" y="1194" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0185" x="1221" y="1194" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0186" x="1628" y="1194" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0187" x="2035" y="1194" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0188" x="2442" y="1194" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0189" x="2849" y="1194" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0190" x="3256" y="1194" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0191" x="3663" y="1194" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0192" x="0" y="1762" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0193" x="407" y="1762" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0194" x="814" y="1762" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0195" x="1221" y="1762" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0196" x="1628" y="1762" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0197" x="2035" y="1762" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0198" x="2442" y="1762" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0199" x="2849" y="1762" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0200" x="3256" y="1762" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0201" x="3663" y="1762" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0202" x="0" y="2330" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0203" x="2217" y="608" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0204" x="407" y="2330" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0205" x="814" y="2330" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0206" x="1221" y="2330" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0207" x="1628" y="2330" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0208" x="2849" y="1762" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0209" x="2035" y="2330" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0210" x="814" y="1194" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0211" x="1221" y="1194" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0212" x="2442" y="2330" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0213" x="1221" y="1762" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0214" x="2849" y="2330" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0215" x="3256" y="2330" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0216" x="3663" y="2330" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0217" x="0" y="2898" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0218" x="3663" y="1194" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0219" x="407" y="2898" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0220" x="814" y="2898" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0221" x="1221" y="2898" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0222" x="3256" y="2330" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0223" x="2442" y="1194" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0224" x="1628" y="2898" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0225" x="1221" y="1762" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0226" x="1628" y="1194" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0227" x="2035" y="2898" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0228" x="2442" y="2898" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0229" x="2849" y="2898" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0230" x="3256" y="2898" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0231" x="407" y="1194" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0232" x="2849" y="1762" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0233" x="3663" y="2898" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0234" x="3438" y="608" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0235" x="0" y="3466" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0236" x="407" y="3466" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0237" x="814" y="3466" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0238" x="1221" y="3466" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0239" x="2217" y="608" width="407" height="568" frameX="-818" frameY="-26" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0240" x="1628" y="3466" width="404" height="574" frameX="-828" frameY="-33" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0241" x="2032" y="3466" width="404" height="574" frameX="-828" frameY="-33" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0242" x="2436" y="3466" width="403" height="570" frameX="-829" frameY="-37" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0243" x="2839" y="3466" width="403" height="570" frameX="-829" frameY="-37" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0244" x="3242" y="3466" width="405" height="574" frameX="-832" frameY="-33" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0245" x="3647" y="3466" width="405" height="574" frameX="-832" frameY="-33" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0246" x="0" y="4040" width="405" height="576" frameX="-832" frameY="-31" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0247" x="405" y="4040" width="405" height="576" frameX="-832" frameY="-31" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0248" x="810" y="4040" width="409" height="576" frameX="-830" frameY="-31" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0249" x="810" y="4040" width="409" height="576" frameX="-830" frameY="-31" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="Mecha Sonic Start0250" x="810" y="4040" width="409" height="576" frameX="-830" frameY="-31" frameWidth="1368" frameHeight="820"/>
+	<SubTexture name="super down0000" x="1219" y="4040" width="450" height="588" frameX="0" frameY="-5" frameWidth="450" frameHeight="593"/>
+	<SubTexture name="super down0001" x="1219" y="4040" width="450" height="588" frameX="0" frameY="-5" frameWidth="450" frameHeight="593"/>
+	<SubTexture name="super down0002" x="1669" y="4040" width="432" height="593" frameX="-7" frameY="0" frameWidth="450" frameHeight="593"/>
+	<SubTexture name="super down0003" x="1669" y="4040" width="432" height="593" frameX="-7" frameY="0" frameWidth="450" frameHeight="593"/>
+	<SubTexture name="super idle0000" x="2101" y="4040" width="404" height="574" frameX="0" frameY="-2" frameWidth="411" frameHeight="576"/>
+	<SubTexture name="super idle0001" x="2101" y="4040" width="404" height="574" frameX="0" frameY="-2" frameWidth="411" frameHeight="576"/>
+	<SubTexture name="super idle0002" x="2505" y="4040" width="402" height="570" frameX="-2" frameY="-6" frameWidth="411" frameHeight="576"/>
+	<SubTexture name="super idle0003" x="2505" y="4040" width="402" height="570" frameX="-2" frameY="-6" frameWidth="411" frameHeight="576"/>
+	<SubTexture name="super idle0004" x="2907" y="4040" width="404" height="574" frameX="-5" frameY="-2" frameWidth="411" frameHeight="576"/>
+	<SubTexture name="super idle0005" x="2907" y="4040" width="404" height="574" frameX="-5" frameY="-2" frameWidth="411" frameHeight="576"/>
+	<SubTexture name="super idle0006" x="3311" y="4040" width="404" height="576" frameX="-5" frameY="0" frameWidth="411" frameHeight="576"/>
+	<SubTexture name="super idle0007" x="3311" y="4040" width="404" height="576" frameX="-5" frameY="0" frameWidth="411" frameHeight="576"/>
+	<SubTexture name="super idle0008" x="0" y="4633" width="408" height="576" frameX="-3" frameY="0" frameWidth="411" frameHeight="576"/>
+	<SubTexture name="super idle0009" x="0" y="4633" width="408" height="576" frameX="-3" frameY="0" frameWidth="411" frameHeight="576"/>
+	<SubTexture name="super idle0010" x="0" y="4633" width="408" height="576" frameX="-3" frameY="0" frameWidth="411" frameHeight="576"/>
+	<SubTexture name="super idle0011" x="0" y="4633" width="408" height="576" frameX="-3" frameY="0" frameWidth="411" frameHeight="576"/>
+	<SubTexture name="super idle0012" x="0" y="4633" width="408" height="576" frameX="-3" frameY="0" frameWidth="411" frameHeight="576"/>
+	<SubTexture name="super left0000" x="408" y="4633" width="414" height="586"/>
+	<SubTexture name="super left0001" x="408" y="4633" width="414" height="586"/>
+	<SubTexture name="super left0002" x="822" y="4633" width="385" height="580" frameX="-25" frameY="-6" frameWidth="414" frameHeight="586"/>
+	<SubTexture name="super left0003" x="822" y="4633" width="385" height="580" frameX="-25" frameY="-6" frameWidth="414" frameHeight="586"/>
+	<SubTexture name="super right0000" x="1207" y="4633" width="383" height="576" frameX="-17" frameY="-4" frameWidth="400" frameHeight="580"/>
+	<SubTexture name="super right0001" x="1207" y="4633" width="383" height="576" frameX="-17" frameY="-4" frameWidth="400" frameHeight="580"/>
+	<SubTexture name="super right0002" x="1590" y="4633" width="379" height="580" frameX="0" frameY="0" frameWidth="400" frameHeight="580"/>
+	<SubTexture name="super right0003" x="1590" y="4633" width="379" height="580" frameX="0" frameY="0" frameWidth="400" frameHeight="580"/>
+	<SubTexture name="super up0000" x="1969" y="4633" width="422" height="590" frameX="-4" frameY="0" frameWidth="426" frameHeight="590"/>
+	<SubTexture name="super up0001" x="1969" y="4633" width="422" height="590" frameX="-4" frameY="0" frameWidth="426" frameHeight="590"/>
+	<SubTexture name="super up0002" x="2391" y="4633" width="421" height="568" frameX="0" frameY="-17" frameWidth="426" frameHeight="590"/>
+	<SubTexture name="super up0003" x="2391" y="4633" width="421" height="568" frameX="0" frameY="-17" frameWidth="426" frameHeight="590"/>
+</TextureAtlas>

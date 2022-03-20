@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "super idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "super right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "super left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "super up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "super down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				830,
+				33
+			],
+			"anim": "intro",
+			"fps": 30,
+			"name": "Mecha Sonic Start",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mecha Sonic",
+	"position": [
+		-160,
+		-340
+	],
+	"healthicon": "mecha",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		41,
+		120
+	],
+	"camera_position": [
+		-450,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

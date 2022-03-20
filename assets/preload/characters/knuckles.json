@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-510,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "knuckles idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-480,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "knuckles left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-526,
+				15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "knuckles up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-453,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "knuckles down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-420,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "knuckles right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				90
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "firstDeath",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-209,
+				-241
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "deathLoop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-210
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "deathConfirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Knuckles",
+	"position": [
+		-370,
+		220
+	],
+	"healthicon": "knuckles",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		0,
+		0
+	],
+	"camera_position": [
+		110,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

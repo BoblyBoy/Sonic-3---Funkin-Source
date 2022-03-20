@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kuncles.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="knuckles story0000" x="0" y="0" width="286" height="494"/>
+	<SubTexture name="knuckles story0001" x="286" y="0" width="286" height="494"/>
+	<SubTexture name="knuckles story0002" x="572" y="0" width="286" height="494"/>
+	<SubTexture name="knuckles story0003" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0004" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0005" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0006" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0007" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0008" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0009" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0010" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0011" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0012" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0013" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0014" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0015" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0016" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0017" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0018" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0019" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0020" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0021" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0022" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0023" x="0" y="494" width="286" height="494"/>
+	<SubTexture name="knuckles story0024" x="0" y="494" width="286" height="494"/>
+</TextureAtlas>

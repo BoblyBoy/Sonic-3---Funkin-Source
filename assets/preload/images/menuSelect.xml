@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menuSelect.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Select0000" x="0" y="0" width="579" height="965"/>
+	<SubTexture name="Select0001" x="579" y="0" width="579" height="965"/>
+	<SubTexture name="Select0002" x="1158" y="0" width="579" height="965"/>
+	<SubTexture name="Select0003" x="1737" y="0" width="579" height="965"/>
+	<SubTexture name="Select0004" x="2316" y="0" width="579" height="965"/>
+	<SubTexture name="Select0005" x="2895" y="0" width="579" height="965"/>
+	<SubTexture name="Select0006" x="3474" y="0" width="579" height="965"/>
+	<SubTexture name="Select0007" x="0" y="965" width="579" height="965"/>
+	<SubTexture name="Select0008" x="579" y="965" width="579" height="965"/>
+	<SubTexture name="Select0009" x="1158" y="965" width="579" height="965"/>
+	<SubTexture name="Select0010" x="1737" y="965" width="579" height="965"/>
+	<SubTexture name="Select0011" x="2316" y="965" width="579" height="965"/>
+	<SubTexture name="Select0012" x="2895" y="965" width="579" height="965"/>
+	<SubTexture name="Select0013" x="3474" y="965" width="579" height="965"/>
+</TextureAtlas>

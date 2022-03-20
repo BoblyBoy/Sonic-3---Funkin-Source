@@ -1,0 +1,39 @@
+{
+	"storyName": "s3&k",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"knuckles",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"angel",
+			"knuckles",
+			[
+				0,
+				0,
+				255
+			]
+		],
+		[
+			"palace",
+			"knuckles",
+			[
+				0,
+				0,
+				255
+			]
+		]
+	],
+	"weekName": "Knuckle"
+}
