@@ -40,4 +40,15 @@
 <br/>
 <h2></h2>
 <hr/>
+<h2>👥 Contributors</h2>
+<a href="https://github.com/HACKERPROTM" title="Brandon Torreglosa (HACKERPROTM)">
+<img width="200" height="200" src="https://avatars.githubusercontent.com/u/84269666?v=4">
+</a>
+&nbsp;
+<a href="https://github.com/BoblyBoy" title="Ryan Nourine (BoblyBoy)">
+<img width="200" height="200" src="https://avatars.githubusercontent.com/u/59483372?v=4">
+</a>
+<br/>
+<h2></h2>
+<hr/>
 <h2>Make sure to ⭐ and 🍴 the repository</h2>
