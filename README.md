@@ -1,13 +1,13 @@
 # Sonic 3 & Funkin' Complete | Friday Night Funkin Mod
 <a href="https://gamebanana.com/mods/359770" title="Sonic 3 & Funkin' Complete | Copyright Tactical Pizza">
-<img height="500" width="80%" src="https://images.gamebanana.com/img/ss/mods/6235fe57eec31.jpg">
+<img height="400" width="100%" src="https://images.gamebanana.com/img/ss/mods/6235fe57eec31.jpg">
 </a>
 <br/>
 <h2></h2>
 <hr/>
 <h2>📔 Storyline</h2>
 <a href="https://gamebanana.com/mods/359770" title="Story Line Photo | Copyright Tactical Pizza">
-<img width="80%" height="500" src="https://m.gjcdn.net/content/700/11657310-ll-kmqj4kqz-v4.webp">
+<img width="100%" height="400" src="https://m.gjcdn.net/content/700/11657310-ll-kmqj4kqz-v4.webp">
 </a>
 <p> Boyfriend takes the role of sonic and decides to be the hero of the story. He will go up against Knuckles, DR Eggman and more.</p>
 <h2></h2>
