@@ -30,9 +30,6 @@
 <li> UltraBloxx - Testing
 <li> Psych Engine Devs - Made Psych which this is a mod of.
 <li> HACKERPROTM - For the readme.md file editing
-<br/>
-
-<hr/>
 <h2>👥 Contributors</h2>
 <a href="https://github.com/HACKERPROTM" title="Brandon Torreglosa (HACKERPROTM)">
 <img width="200" height="200" src="https://avatars.githubusercontent.com/u/84269666?v=4">
