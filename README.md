@@ -31,14 +31,7 @@
 <li> Psych Engine Devs - Made Psych which this is a mod of.
 <li> HACKERPROTM - For the readme.md file editing
 <br/>
-<h2></h2>
-<hr/>
-<h2>💰 Donate</h2>
-<p> Want To Support Me On Future Development? Donate From Below</p>
-<li> Donate To Me Through <code>StreamLabs</code> By Clicking <a href="https://streamlabs.com/tacticalpizza">Here</a>
-<li> Donate To Me Through <code>GitHub</code> By Clicking The <code>❤ Sponsor</code> Button
-<br/>
-<h2></h2>
+
 <hr/>
 <h2>👥 Contributors</h2>
 <a href="https://github.com/HACKERPROTM" title="Brandon Torreglosa (HACKERPROTM)">
